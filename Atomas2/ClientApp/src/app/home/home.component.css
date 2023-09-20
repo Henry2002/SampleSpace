@@ -1,0 +1,17 @@
+.circle {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: #3d9970;
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+  .circle:before {
+    border-top: 60px;
+    position: relative;
+  }
+  .circle p {
+    text-align: center;
+    position: relative;
+  }
